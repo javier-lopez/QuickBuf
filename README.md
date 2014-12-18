@@ -2,6 +2,8 @@
 
 Vim plugin helps navigate and manipulate buffers, this version adds `<Plug>QuickBuf` for lazy loading.
 
+<div style="text-align:center"><img src="quickbuf.png" /></div>
+
 ##Brief description
 
 While making the task of browsing and manipulating buffers visual and simple, QuickBuf also offers advanced abilities of dealing with buffers (ex: "unlisted" mode). It's unique among several other buffer managers for creating no dedicated buffer and defining no auto command, thus minimize its interference.
