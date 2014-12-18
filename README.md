@@ -2,7 +2,9 @@
 
 Vim plugin helps navigate and manipulate buffers, this version adds `<Plug>QuickBuf` for lazy loading.
 
-<div style="text-align:center"><img src="quickbuf.png" /></div>
+<p align="center">
+<img src="quickbuf.png" alt="quickbuf image"/>
+</p>
 
 ##Brief description
 
