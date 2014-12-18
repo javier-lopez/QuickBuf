@@ -1,6 +1,6 @@
 #QuickBuf
 
-Vim plugin helps navigate and manipulate buffers, this version adds `<Plug>QuickBuf` for lazy loading.
+Vim plugin helps navigate and manipulate buffers, this version adds `<Plug>QuickBuf` for lazy loading. Get the original at http://www.vim.org/scripts/script.php?script_id=1910
 
 <p align="center">
 <img src="quickbuf.png" alt="quickbuf image"/>
